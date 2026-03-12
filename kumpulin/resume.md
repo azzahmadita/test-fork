@@ -12,7 +12,7 @@ Hubungan antara sains dan agama dapat dilihat dari beberapa pola. Pertama, agama
 
 **2. Akar Konflik pada Pembabakan Historis**
 
-- Pada masa Yunani kuno, pemikiran filsafat mulai berkembang dan mendorong manusia untuk memahami alam melalui rasio.
+- Pada masa Yunani kuno, pemikiran filsafat mulai berkembang dan mendorong manusia untuk memahami alam.
 - Pada masa Romawi, agama memiliki peran penting dalam kehidupan sosial dan politik masyarakat.
 - Pada abad pertengahan atau abad kegelapan, institusi keagamaan memiliki pengaruh yang sangat kuat, terutama dalam menentukan arah pemikiran masyarakat.
 - Pada masa kebangkitan, terjadi perubahan besar ketika para ilmuwan mulai mencari penjelasan rasional mengenai alam semesta.
@@ -20,18 +20,18 @@ Hubungan antara sains dan agama dapat dilihat dari beberapa pola. Pertama, agama
 
 **3. Perbedaan Metodologis dari Konflik antara Sains dan Agama**
 
-Kalau dilihat dari aspek metodologinya, sains berfokus pada pencarian fakta dan pengetahuan melalui observasi, eksperimen, serta pengujian hipotesis secara sistematis. Sementara itu, agama lebih menekankan pada nilai etika, keyakinan spiritual, dan pedoman praktis dalam kehidupan manusia. 
+Kalau dilihat dari aspek metodologinya, sains berfokus pada pencarian fakta dan pengetahuan melalui observasi, eksperimen, dll. Sementara itu, agama lebih menekankan pada nilai etika, keyakinan spiritual, dan pedoman praktis dalam kehidupan manusia. 
 
 **4. Konflik Sains dan Agama**
 
 Konflik yang biasa muncul antara sains dan agama karena adanya perbedaan cara pandang dalam memahami realitas. Sains berusaha menjelaskan dunia melalui bukti empiris dan metode ilmiah, sedangkan agama memberikan makna, nilai, dan arah moral bagi kehidupan manusia. Biasanya, dalam perkembangan peradaban manusia, sains dan agama tidak hanya berada dalam posisi yang saling bertentangan, tetapi juga dapat saling melengkapi. Sains memberikan pengetahuan dan teknologi yang membantu manusia memahami alam, sementara agama memberikan landasan etika agar pengetahuan tersebut digunakan secara bijak bagi kemajuan umat manusia.
 
 ## **Pertanyaan**
-**1. Nabi sulaiman bisa memindahkan istana dengan bantuan jin ifrit, dan hari ini manusia juga bisa memindahkan gedung dengan alat, yang awalnya memindahkan gedung itu mukjizat menjadi hal yang biasa, cuman yang harus diperhatikan adalah mulai ada potensi untuk hal tersebut bisa dilakukan oleh manusia, dan tidak menjadi mukjizat lagi, bagaimana pendapat kalian terkait fenomena tersebut, apakah kalian akan ada di pihak agama atau sains di mana mukjizat sudah bukan mukjizat?**
+**1. Nabi Sulaiman bisa memindahkan istana dengan bantuan jin ifrit, dan hari ini manusia juga bisa memindahkan gedung dengan alat, yang awalnya memindahkan gedung itu mukjizat menjadi hal yang biasa, cuman yang harus diperhatikan adalah mulai ada potensi untuk hal tersebut bisa dilakukan oleh manusia, dan tidak menjadi mukjizat lagi, bagaimana pendapat kalian terkait fenomena tersebut, apakah kalian akan ada di pihak agama atau sains di mana mukjizat sudah bukan mukjizat?**
 
 **Jawaban:**
 
-jubdw
+Fenomena Nabi Sulaiman pada masa itu dianggap sebagai mukjizat karena manusia belum memiliki kemampuan atau teknologi untuk melakukan hal seperti memindahkan istana. Pada zaman tersebut, ilmu pengetahuan dan teknologi juga belum berkembang seperti sekarang yang dimana manusia sudah bisa memindahkan gedung dengan bantuan teknologi zaman sekarang. 
 
 **2. Apa dampak kecerdasan buatan terhadap pekerjaan manusia di masa depan?**
 

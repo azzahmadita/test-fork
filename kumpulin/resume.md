@@ -1,12 +1,14 @@
-NAMA: AZZAH
+Nama: Hazimah Azzah Putrimadita
 
 NIM: 12402051030043
 
-KELAS: 4A
+Kelas: 4A
 
 # **Hubungan antara Sains dan Agama dalam Sejarah Peradaban**
 
 **1. Pola Hubungan Antara Sains dan Agama**
+
+Hubungan antara sains dan agama dapat dilihat dari beberapa pola. Pertama, agama memiliki peran penting dalam membentuk cerita, kepercayaan, serta nilai yang memungkinkan manusia bekerja sama dalam masyarakat. Kedua, sains memberikan cara baru dalam memahami realitas melalui metode ilmiah yang berbasis data dan eksperimen. Namun dalam banyak aspek kehidupan, sains dan agama juga dapat saling melengkapi, terutama ketika sains menjelaskan bagaimana dunia bekerja, sementara agama memberikan makna, nilai moral, dan pedoman etika bagi manusia.
 
 **2. Akar Konflik pada Pembabakan Historis**
 
@@ -23,4 +25,17 @@ Kalau dilihat dari aspek metodologinya, sains berfokus pada pencarian fakta dan 
 **4. Konflik Sains dan Agama**
 
 Konflik yang biasa muncul antara sains dan agama karena adanya perbedaan cara pandang dalam memahami realitas. Sains berusaha menjelaskan dunia melalui bukti empiris dan metode ilmiah, sedangkan agama memberikan makna, nilai, dan arah moral bagi kehidupan manusia. Biasanya, dalam perkembangan peradaban manusia, sains dan agama tidak hanya berada dalam posisi yang saling bertentangan, tetapi juga dapat saling melengkapi. Sains memberikan pengetahuan dan teknologi yang membantu manusia memahami alam, sementara agama memberikan landasan etika agar pengetahuan tersebut digunakan secara bijak bagi kemajuan umat manusia.
+
+## **Pertanyaan**
+**1. Nabi sulaiman bisa memindahkan istana dengan bantuan jin ifrit, dan hari ini manusia juga bisa memindahkan gedung dengan alat, yang awalnya memindahkan gedung itu mukjizat menjadi hal yang biasa, cuman yang harus diperhatikan adalah mulai ada potensi untuk hal tersebut bisa dilakukan oleh manusia, dan tidak menjadi mukjizat lagi, bagaimana pendapat kalian terkait fenomena tersebut, apakah kalian akan ada di pihak agama atau sains di mana mukjizat sudah bukan mukjizat?**
+
+**Jawaban:**
+
+jubdw
+
+**2. Apa dampak kecerdasan buatan terhadap pekerjaan manusia di masa depan?**
+
+**Jawaban:**
+
+efagr
 

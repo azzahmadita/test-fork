@@ -37,5 +37,5 @@ jubdw
 
 **Jawaban:**
 
-efagr
+Pada buku *Homo Deus: Masa Depan Umat Manusia*, menjelaskan bahwa kecerdasan buatan berpotensi menggantikan banyak pekerjaan yang sebelumnya dilakukan manusia. Mesin dan algoritma dapat bekerja lebih cepat dalam mengolah data, membuat prediksi, dan menjalankan tugas tertentu. Hal ini dapat mengurangi kebutuhan tenaga kerja manusia di beberapa bidang. Di sisi lain, teknologi juga dapat menciptakan jenis pekerjaan baru yang membutuhkan keterampilan berbeda. Namun perubahan ini dapat menimbulkan tantangan besar bagi sistem ekonomi dan pendidikan kedepannya.
 
